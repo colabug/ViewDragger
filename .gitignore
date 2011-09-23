@@ -1,0 +1,5 @@
+gen/*
+out/*
+.idea/*
+build.xml
+ViewDragger.iml

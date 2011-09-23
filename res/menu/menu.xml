@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add"
+        android:title="Add"
+        android:icon="@drawable/ic_menu_add"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/undo"
+        android:icon="@drawable/ic_menu_undo"
+        android:title="Undo"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/clear"
+        android:title="Clear"
+        android:icon="@drawable/ic_menu_clear"
+        android:showAsAction="always" />
+</menu>
