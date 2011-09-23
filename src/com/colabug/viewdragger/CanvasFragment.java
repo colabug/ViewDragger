@@ -39,7 +39,7 @@ public class CanvasFragment extends Fragment
         layout.addView( draggableView );
     }
 
-        public void clearScreen()
+    public void clearScreen()
     {
         layout.removeAllViews();
     }
