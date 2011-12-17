@@ -4,3 +4,4 @@ out/*
 build.xml
 ViewDragger.iml
 blah*
+.DS_Store
