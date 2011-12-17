@@ -2,6 +2,8 @@ gen/*
 out/*
 .idea/*
 build.xml
-ViewDragger.iml
+*.iml
 blah*
 .DS_Store
+tests/local.properties
+local.properties

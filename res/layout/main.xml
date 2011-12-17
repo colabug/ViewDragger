@@ -6,6 +6,13 @@
     android:layout_height="match_parent"
     android:orientation="horizontal">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Hello World!"
+        android:visibility="gone"/>
+
     <fragment class="com.colabug.viewdragger.CanvasFragment"
         android:id="@+id/canvas_fragment"
         android:layout_width="match_parent"
